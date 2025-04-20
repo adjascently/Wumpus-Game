@@ -38,8 +38,8 @@ Navigate through the maze and hunt the Wumpus without falling into a pit or bein
 
   ## Project Structure 
 Wumpus-Game/
-├── model/             # Game logic and classes (Maze, Player, Cave, etc.)
-├── view/              # Java Swing GUI components
-├── controller/        # User input and game flow management
-├── Main.java          # Main class to run the game
-└── test/              # JUnit test cases
+- ├── model/             # Game logic and classes (Maze, Player, Cave, etc.)
+- ├── view/              # Java Swing GUI components
+- ├── controller/        # User input and game flow management
+- ├── Main.java          # Main class to run the game
+- └── test/              # JUnit test cases
